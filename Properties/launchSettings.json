@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "calısma": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}
